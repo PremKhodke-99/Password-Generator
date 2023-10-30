@@ -66,3 +66,17 @@ body{
     border-radius: 5px;
     cursor: pointer;
 }
+
+footer{
+    color: #fff;
+    font-size: 18px;
+    display: block;
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+}
+footer a{
+    color: #09df7b;
+}
